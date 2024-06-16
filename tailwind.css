@@ -9,6 +9,10 @@
     font-family: var(--font-family);
   }
 
+  body {
+    background-color: #1F2B38;
+  }
+
   /** Remove default styles from input[type=number] */
   input[type=number]::-webkit-inner-spin-button,
   input[type=number]::-webkit-outer-spin-button {
