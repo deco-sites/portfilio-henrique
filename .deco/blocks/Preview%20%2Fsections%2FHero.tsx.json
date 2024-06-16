@@ -1,3 +1,11 @@
 {
-  "__resolveType": "site/sections/Hero.tsx"
+  "__resolveType": "site/sections/Hero.tsx",
+  "name": "Henrique Almeida",
+  "office": "Desenvolvedor",
+  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/f580d18c-1f0a-4258-b614-798c88bac250",
+  "redes": {
+    "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/7569e514-816f-40b4-9929-baa6daefeb93",
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/henrique-almeida-de-oliveira/"
+  }
 }
