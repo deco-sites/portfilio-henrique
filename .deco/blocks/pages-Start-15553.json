@@ -1,7 +1,17 @@
 {
   "name": "Home",
   "path": "/",
-  "sections": [],
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Hero.tsx"
+    },
+    {
+      "__resolveType": "Preview /sections/Projects.tsx"
+    },
+    {
+      "__resolveType": "Preview /sections/Concat.tsx"
+    }
+  ],
   "__resolveType": "website/pages/Page.tsx",
   "seo": {
     "__resolveType": "website/sections/Seo/SeoV2.tsx",
