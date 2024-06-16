@@ -36,9 +36,7 @@ export default function Section({ name = "Henrique Almeida", office = "Desenvolv
         </div>
       </div>
       <div>
-        <div class={`w-[250px] h-[250px] bg-[url('${image}')] bg-cover bg-no-repeat rounded-full`}>
-
-        </div>
+        <img className="w-[250px] h-[250px] rounded-full" src={image} alt={name} />
       </div>
     </div>
   )
