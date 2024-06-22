@@ -1,3 +1,15 @@
 {
-  "__resolveType": "site/sections/Projects.tsx"
+  "__resolveType": "site/sections/Projects.tsx",
+  "projects": [
+    {
+      "name": "Blizzard",
+      "link": "https://blizzard-iota.vercel.app/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/5bca4e44-629e-4f94-a1c3-ffadf1e97e4a"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/2a27b588-905c-4b42-b5b0-40d196753018",
+      "name": "Pizza",
+      "link": "https://pizza-time-five.vercel.app/"
+    }
+  ]
 }
