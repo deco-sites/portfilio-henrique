@@ -36,7 +36,7 @@ export default function Section({ name = "Henrique Almeida", office = "Desenvolv
         </div>
       </div>
       <div>
-        <img className="w-[250px] h-[250px] rounded-full" src={image} alt={name} />
+        <img class="w-[250px] h-[250px] rounded-full" src={image} alt={name} />
       </div>
     </div>
   )
