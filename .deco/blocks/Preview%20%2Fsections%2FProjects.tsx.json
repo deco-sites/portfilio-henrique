@@ -10,6 +10,16 @@
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/2a27b588-905c-4b42-b5b0-40d196753018",
       "name": "Pizza",
       "link": "https://pizza-time-five.vercel.app/"
+    },
+    {
+      "name": "Burguer",
+      "link": "https://empire-burger-brchallenges.vercel.app/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/be1e0355-fb8e-40de-8c21-b8f1f30f290f"
+    },
+    {
+      "name": "Space",
+      "link": "https://space-three-rose.vercel.app/home",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/3c43e51d-7a18-4ff0-a50a-abbd93b49433"
     }
   ]
 }
