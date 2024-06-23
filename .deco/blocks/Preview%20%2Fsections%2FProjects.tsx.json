@@ -20,6 +20,16 @@
       "name": "Space",
       "link": "https://space-three-rose.vercel.app/home",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/3c43e51d-7a18-4ff0-a50a-abbd93b49433"
+    },
+    {
+      "name": "Blizzard",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/855dedbb-227a-4fe2-8809-a1acdc553cdd",
+      "link": "https://blizzard-iota.vercel.app/"
+    },
+    {
+      "link": "https://pizza-time-five.vercel.app/",
+      "name": "Pizza",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10814/cb365786-bc97-4d48-acc2-c2e063b191ff"
     }
   ]
 }
